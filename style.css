@@ -26,16 +26,6 @@ text-align:center;
 overflow:hidden;
 }
 
-.footer {
-   background-color: #72668a;
-border: 5px ridge #332e3e;
-  width:500px;
-  height:100px;
-  padding:5px;
-position:relative;
-text-align:center;
-overflow:hidden;
-}
 
 a {
   color: #150a29;
