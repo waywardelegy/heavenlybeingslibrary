@@ -1,7 +1,7 @@
 .header {
   background-color: #625889;
   border: 5px ridge #332e3e;
-  width:700px;
+  width:auto;
   height:auto;
   padding:5px;
   margin-left: auto;
@@ -19,7 +19,7 @@ background-image: url("background.png")
 .main {
   background-color: #625889;
   border: 5px ridge #332e3e;
-  width:700px;
+  width:auto;
   height:auto;
   padding:5px;
   margin-left: auto;
@@ -32,7 +32,7 @@ background-image: url("background.png")
 .main2 {
   background-color: #625889;
   border: 5px ridge #332e3e;
-  width:300px;
+  width:auto;
   height:auto;
   padding:5px;
   margin-left: auto;
@@ -45,7 +45,7 @@ background-image: url("background.png")
 .footer {
   background-color: #625889;
   border: 5px ridge #332e3e;
-  width:700px;
+  width:auto;
   height:auto;
   padding:5px;
   margin-left: auto;
