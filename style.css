@@ -8,10 +8,11 @@ background-color: #9c92af;
   width:500px;
   height:500px;
   padding:5px;
-  margin:13px;
-float:left;
-text-align:center;
-overflow:hidden;
+  margin-left: auto;
+  margin-right: auto;
+  float:left;
+  text-align:center;
+  overflow:hidden;
 }
 
 .main2 {
@@ -20,10 +21,11 @@ overflow:hidden;
   width:300px;
   height:auto;
   padding:5px;
-  margin:13px;
-float:right;
-text-align:center;
-overflow:hidden;
+  margin-left: auto;
+  margin-right: auto;
+  float:right;
+  text-align:center;
+  overflow:hidden;
 }
 
 
