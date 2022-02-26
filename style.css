@@ -5,11 +5,23 @@ background-color: #9c92af;
 main {
   background-color: #72668a;
   border: 5px ridge #332e3e;
-  width:auto;
-  height:auto;
+  width:500px;
+  height:500px;
   padding:5px;
   margin:13px;
 float:left;
+text-align:center;
+overflow:hidden;
+}
+
+main2 {
+  background-color: #72668a;
+  border: 5px ridge #332e3e;
+  width:300px;
+  height:auto;
+  padding:5px;
+  margin:13px;
+float:right;
 text-align:center;
 overflow:hidden;
 }
