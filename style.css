@@ -4,7 +4,6 @@
   width:500px;
   height:50px;
   padding:5px;
-  opacity: 0.8;
   margin-left: auto;
   margin-right: auto;
   position:relative;
@@ -15,16 +14,14 @@
 body {
 background-color: #9c92af;
 background-image: url("background.png")
-opacity: 0.8;
 }
 
 .main {
   background-color: #625889;
   border: 5px ridge #332e3e;
   width:500px;
-  height:300px;
+  height:400px;
   padding:5px;
-  opacity: 0.8;
   margin-left: auto;
   margin-right: auto;
   position:relative;
@@ -38,7 +35,6 @@ opacity: 0.8;
   width:300px;
   height:auto;
   padding:5px;
-  opacity: 0.8;
   margin-left: auto;
   margin-right: auto;
   float:right;
@@ -52,7 +48,6 @@ opacity: 0.8;
   width:500px;
   height:50px;
   padding:5px;
-  opacity: 0.8;
   margin-left: auto;
   margin-right: auto;
   position:relative;
