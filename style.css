@@ -14,6 +14,9 @@
 body {
 background-color: #9c92af;
 background-image: url("background.png")
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
 }
 
 .main {
