@@ -31,7 +31,7 @@ overflow-y: hidden;
   position: relative;
   z-index: 1;
   top: 0;
-  left: 100;
+  left: -100;
 bottom: 0;
   background-color: #625889;
   border: 5px ridge #332e3e;
