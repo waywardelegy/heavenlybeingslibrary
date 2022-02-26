@@ -1,10 +1,10 @@
 .sidenavright {
-  height: 90%;
-  width: 15%;
+  height: 100%;
+  width: 10%;
   position: fixed;
   z-index: 1;
   top: 0;
-  right: 0;
+  right: 90;
 bottom: 0;
   background-color: #625889;
   overflow-x: hidden;
@@ -25,12 +25,12 @@ overflow-y: scroll;
 }
 
 .sidenavleft {
-  height: 90%;
-  width: 15%;
+  height: 100%;
+  width: 10%;
   position: fixed;
   z-index: 1;
   top: 0;
-  left: 0;
+  left: 90;
 bottom: 0;
   background-color: #625889;
   overflow-x: hidden;
