@@ -1,6 +1,6 @@
 .sidenavright {
   height: relative;
-  width: 50%;
+  width: 20%;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -27,7 +27,7 @@ overflow-y: hidden;
 
 .sidenavleft {
   height: relative;
-  width: 50%;
+  width: 20%;
   position: fixed;
   z-index: 1;
   top: 0;
