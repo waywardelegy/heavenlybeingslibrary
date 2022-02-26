@@ -2,6 +2,18 @@ body {
 background-color: #9c92af;
 }
 
+div {
+  background-color: #72668a;
+  border: 5px ridge #332e3e;
+  width:500px;
+  height:500px;
+  padding:5px;
+  margin:13px;
+position:relative;
+text-align:center;
+overflow:hidden;
+}
+
 .main {
   background-color: #72668a;
   border: 5px ridge #332e3e;
@@ -9,7 +21,7 @@ background-color: #9c92af;
   height:500px;
   padding:5px;
   margin:13px;
-float:left;
+position:relative;
 text-align:center;
 overflow:hidden;
 }
@@ -21,7 +33,7 @@ overflow:hidden;
   height:auto;
   padding:5px;
   margin:13px;
-float:right;
+position:relative;
 text-align:center;
 overflow:hidden;
 }
@@ -31,7 +43,7 @@ overflow:hidden;
   width:auto;
   height:auto;
   padding:5px;
-float:left;
+position:relative;
 text-align:center;
 overflow:hidden;
 }
