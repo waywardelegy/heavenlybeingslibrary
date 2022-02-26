@@ -1,26 +1,15 @@
-.header {
-   background-color: #72668a;
-  width:auto;
-  height:auto;
-  padding:5px;
-position:relative;
-text-align:center;
-overflow:hidden;
-font-size: 13px;
-}
-
 body {
 background-color: #9c92af;
 }
 
-div {
+main {
   background-color: #72668a;
   border: 5px ridge #332e3e;
   width:auto;
   height:auto;
   padding:5px;
   margin:13px;
-position:relative;
+float: left;
 text-align:center;
 overflow:hidden;
 }
