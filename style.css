@@ -9,7 +9,7 @@ background-color: #9c92af;
   height:500px;
   padding:5px;
   margin:13px;
-position:relative;
+float:left;
 text-align:center;
 overflow:hidden;
 }
@@ -21,17 +21,18 @@ overflow:hidden;
   height:auto;
   padding:5px;
   margin:13px;
-position:relative;
+float:right;
 text-align:center;
 overflow:hidden;
 }
 
 .footer {
    background-color: #72668a;
-  width:auto;
-  height:auto;
+border: 5px ridge #332e3e;
+  width:500px;
+  height:200px;
   padding:5px;
-position:relative;
+float:left;
 text-align:center;
 overflow:hidden;
 }
