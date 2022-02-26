@@ -4,7 +4,7 @@
   position: fixed;
   z-index: 1;
   top: 0;
-  right: -500; 
+  right: 0; 
 bottom: 0;
   background-color: #625889;
   border: 5px ridge #332e3e;
@@ -31,7 +31,7 @@ overflow-y: hidden;
   position: fixed;
   z-index: 1;
   top: 0;
-  left: -100;
+  left: 0;
 bottom: 0;
   background-color: #625889;
   border: 5px ridge #332e3e;
