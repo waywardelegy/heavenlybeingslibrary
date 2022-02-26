@@ -82,4 +82,5 @@ button {
   position:relative;
   text-align:center;
   overflow:hidden;
+  cursor: pointer;
 }
