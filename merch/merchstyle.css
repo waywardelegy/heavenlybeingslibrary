@@ -1,0 +1,159 @@
+.sidenavright {
+  height: relative;
+  width: 10%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 30;
+bottom: 0;
+  background-color: #625889;
+  overflow-x: hidden;
+overflow-y: hidden;
+  padding-top: 5px;
+}
+
+.sidenavright a {
+  padding: 1px 1px 1px 1px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #150a29;
+  display: block;
+}
+
+.sidenavright a:hover {
+  color: #fff;
+}
+
+.sidenavleft {
+  height: relative;
+  width: 10%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 30;
+bottom: 0;
+  background-color: #625889;
+  overflow-x: hidden;
+overflow-y: hidden;
+  padding-top: 5px;
+}
+
+.sidenavleft a {
+  padding: 1px 1px 1px 1px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #150a29;
+  display: block;
+}
+
+.sidenavleft a:hover {
+  color: #fff;
+}
+
+.header {
+  background-color: #625889;
+  border: 5px ridge #332e3e;
+  width:700px;
+  height:auto;
+  padding:5px;
+  margin-left: auto;
+  margin-right: auto;
+  position:relative;
+  text-align:center;
+  overflow:hidden;
+}
+
+body {
+background-color: #9c92af;
+background-image: url("background.png")
+}
+
+.main {
+  background-color: #625889;
+  border: 5px ridge #332e3e;
+  width:700px;
+  height:auto;
+  padding:5px;
+  margin-left: auto;
+  margin-right: auto;
+  position:relative;
+  text-align:center;
+  overflow:hidden;
+}
+
+.main2 {
+  background-color: #625889;
+  border: 5px ridge #332e3e;
+  width:700px;
+  height:auto;
+  padding:5px;
+  margin-left: auto;
+  margin-right: auto;
+  float:right;
+  text-align:center;
+  overflow:hidden;
+}
+
+.footer {
+  background-color: #625889;
+  border: 5px ridge #332e3e;
+  width:700px;
+  height:auto;
+  padding:5px;
+  margin-left: auto;
+  margin-right: auto;
+  position:relative;
+  text-align:center;
+  overflow:hidden;
+}
+
+
+a {
+  color: #150a29;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+a:hover {
+  color: #FFF;
+}
+
+body {
+  color: #150a29;
+  font-family: Tahoma, Geneva, sans-serif
+}
+
+h1 {
+  color: #150a29;
+  font-family: Tahoma, Geneva, sans-serif
+  padding: 0px;
+  margin: 0px;
+}
+
+h2 {
+  color: #150a29;
+  font-family: Tahoma, Geneva, sans-serif
+  padding: 0px;
+  margin: 0px;
+}
+
+p {
+  color: #150a29;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  background-color: #625889;
+  width:100px;
+  height:auto;
+  padding:5px;
+  border: 5px ridge #332e3e;
+  position:relative;
+  text-align:center;
+  overflow:hidden;
+  cursor: pointer;
+}
