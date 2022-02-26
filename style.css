@@ -2,7 +2,7 @@ body {
 background-color: #9c92af;
 }
 
-main {
+.main {
   background-color: #72668a;
   border: 5px ridge #332e3e;
   width:500px;
@@ -14,7 +14,7 @@ text-align:center;
 overflow:hidden;
 }
 
-main2 {
+.main2 {
   background-color: #72668a;
   border: 5px ridge #332e3e;
   width:300px;
