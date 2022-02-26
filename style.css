@@ -1,3 +1,55 @@
+.sidenavright {
+  height: 90%;
+  width: 15%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+bottom: 0;
+  background-color: #625889;
+  overflow-x: hidden;
+overflow-y: scroll;
+  padding-top: 5px;
+}
+
+.sidenavright a {
+  padding: 1px 1px 1px 1px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #150a29;
+  display: block;
+}
+
+.sidenavright a:hover {
+  color: #fff;
+}
+
+.sidenavleft {
+  height: 90%;
+  width: 15%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+bottom: 0;
+  background-color: #625889;
+  overflow-x: hidden;
+overflow-y: scroll;
+  padding-top: 5px;
+}
+
+.sidenavleft a {
+  padding: 1px 1px 1px 1px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #150a29;
+  display: block;
+}
+
+.sidenavleft a:hover {
+  color: #fff;
+}
+
 .header {
   background-color: #625889;
   border: 5px ridge #332e3e;
