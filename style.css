@@ -9,7 +9,7 @@ main {
   height:auto;
   padding:5px;
   margin:13px;
-float: left;
+float:left;
 text-align:center;
 overflow:hidden;
 }
@@ -19,7 +19,7 @@ overflow:hidden;
   width:auto;
   height:auto;
   padding:5px;
-position:relative;
+float:left;
 text-align:center;
 overflow:hidden;
 }
