@@ -10,7 +10,7 @@ background-color: #9c92af;
   padding:5px;
   margin-left: auto;
   margin-right: auto;
-  float:left;
+  position:relative;
   text-align:center;
   overflow:hidden;
 }
